@@ -2,17 +2,6 @@
 
 ## Overview
 
-This project is a simple To-Do List application developed using HTML, CSS, and JavaScript. It provides basic functionalities to manage tasks, such as adding new tasks, and removing completed tasks from the list.
-
-## Features
-
-### Add Tasks
-Users can easily add new tasks to the list by inputting task descriptions and clicking the "Add" button.
-
-# To-Do List App
-
-## Overview
-
 This project is a simple To-Do List application developed using HTML, CSS, and JavaScript. It provides basic functionalities to manage tasks, such as adding new tasks, marking tasks as complete, and removing completed tasks from the list.
 
 ## Features
